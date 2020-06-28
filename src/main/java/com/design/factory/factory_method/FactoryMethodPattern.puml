@@ -1,0 +1,30 @@
+@startuml
+Interface Phone {
+    void call()
+}
+class MiPhone implements Phone{
+    void call()
+}
+class IPhone implements Phone{
+    void call()
+}
+
+Abstract PhoneFactory{
+    Phone makePhone();
+}
+
+class MiPhoneFactory extends PhoneFactory{
+    Phone makePhone();
+}
+
+class IPhoneFactory extends PhoneFactory{
+    Phone makePhone();
+}
+
+
+MiPhoneFactory --> MiPhone
+
+IPhoneFactory --> IPhone
+mian --> PhoneFactory
+
+@enduml

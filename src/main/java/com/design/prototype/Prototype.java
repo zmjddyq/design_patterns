@@ -1,7 +1,5 @@
 package com.design.prototype;
 
-import com.sun.xml.internal.messaging.saaj.util.ByteInputStream;
-import com.sun.xml.internal.messaging.saaj.util.ByteOutputStream;
 
 import java.io.*;
 
@@ -14,14 +12,14 @@ import java.io.*;
  * 原型模式可以在运行期间，由客户来注册符合原型接口的实现类型，
  * 也可以动态地改变具体的实现类型，看起来接口没有任何变化，
  * 但其实运行的已经是另外一个类实例了。因为克隆一个原型就类似于实例化一个类。
- * <p>
+ *
  * 原型模式的缺点
  * 　　原型模式最主要的缺点是每一个类都必须配备一个克隆方法。
  * 配备克隆方法需要对类的功能进行通盘考虑，这对于全新的类来说不是很难，
  * 而对于已经有的类不一定很容易，特别是当一个类引用不支持序列化的间接对象，
  * 或者引用含有循环结构的时候。
  */
-public class Prototype {
+public class Prototype  {
     public static void main(String[] args) throws CloneNotSupportedException {
         Sheep sheep = new Sheep();
         System.out.println("*********************浅克隆测试*******************");
@@ -41,14 +39,13 @@ public class Prototype {
         System.out.println("克隆的对象是否相等: " + cloneSheep3.equals(cloneSheep4));
         System.out.println("克隆的对象的羊朋友是否相等： " + cloneSheep3.getFriend().equals(cloneSheep4.getFriend()));
 
-        System.out.println("*********************深克隆测试1*******************");
+        System.out.println("*********************深克隆测试2*******************");
         Sheep cloneSheep5 = sheep.deepClone1();
         Sheep cloneSheep6 = sheep.deepClone1();
         System.out.println("克隆羊一号: " + cloneSheep5);
         System.out.println("克隆羊二号: " + cloneSheep6);
         System.out.println("克隆的对象是否相等: " + cloneSheep5.equals(cloneSheep6));
         System.out.println("克隆的对象的羊朋友是否相等： " + cloneSheep5.getFriend().equals(cloneSheep6.getFriend()));
-
     }
 }
 

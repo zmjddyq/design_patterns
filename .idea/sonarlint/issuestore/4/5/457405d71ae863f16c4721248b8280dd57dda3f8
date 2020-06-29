@@ -1,6 +1,6 @@
 
-M
-java:S1128"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ8œ¥Ø®¯.
 P
 java:S1128"3Remove this unused import 'java.util.jar.JarEntry'.(äÛá“8ÖöÛ®¯.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾ˆª÷şÿÿÿÿ8ÖöÛ®¯.
+M
+java:S1128"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ8œ¥Ø®¯.

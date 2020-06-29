@@ -1,10 +1,10 @@
 
-X	java:S106"9Replace this use of System.out or System.err by a logger.(Ï«ª™þÿÿÿÿ8ÕŒ¨¬¯.
-e
-java:S2259"EA "NullPointerException" could be thrown; "miPhone" is nullable here.(í”ÓŸÿÿÿÿÿ8Ù‘º¬¯.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(˜Š±õùÿÿÿÿ8™Ê©¬¯.
-Z
-java:S1118":Add a private constructor to hide the implicit public one.(ÛŒ Îøÿÿÿÿ8šñ­¬¯.
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°É«Ê8šñ­¬¯.
-d
-java:S2259"DA "NullPointerException" could be thrown; "iPhone" is nullable here.(Îøó‘úÿÿÿÿ8óê¼¬¯.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°É«Ê8šñ­¬¯.
+f
+java:S2259"DA "NullPointerException" could be thrown; "iPhone" is nullable here.(Îøó‘úÿÿÿÿ8óê¼¬¯.
+g
+java:S2259"EA "NullPointerException" could be thrown; "miPhone" is nullable here.(í”ÓŸÿÿÿÿÿ8Ù‘º¬¯.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÛŒ Îøÿÿÿÿ8šñ­¬¯.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(Ï«ª™þÿÿÿÿ8ÕŒ¨¬¯.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(˜Š±õùÿÿÿÿ8™Ê©¬¯.

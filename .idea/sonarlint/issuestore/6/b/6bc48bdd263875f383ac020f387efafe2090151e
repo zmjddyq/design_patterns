@@ -1,0 +1,12 @@
+
+E
+java:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×âüÂ¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8×âüÂ¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8×âüÂ¯.
+Y
+java:S1128"<Remove this unused import 'com.design.singleton.lazy.Lazy2'.(ş½ŸÂ8Á¶ÿÂ¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8×âüÂ¯.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ĞÍ¦›ûÿÿÿÿ8×âüÂ¯.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(›«×Øûÿÿÿÿ8×âüÂ¯.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¹Ìë§8×âüÂ¯.

@@ -1,0 +1,32 @@
+
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(¸ÊÔÑ8ØıØÂ¯.
+c
+java:S2142+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8°¨áÂ¯.
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8ØıØÂ¯.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8ºåæÂ¯.
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(…»çÈ8î”éÂ¯.
+E
+java:S1148c"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ØıØÂ¯.
+i	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÍ²8üà¶Â¯.
+o	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¬”şÿÿÿÿ8¢í½Â¯.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÒÓàÂ¯.
+E
+java:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ê åÂ¯.
+M
+java:S1128"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ8şÇÃÂ¯.
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ÊõÏÏşÿÿÿÿ8ò™¤Â¯.
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8ØıØÂ¯.
+E
+java:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8°¨áÂ¯.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¼„Ó8¯®Â¯.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ï¼„Ó8€Ç­Â¯.
+c
+java:S2142?"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ê åÂ¯.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(—•®Ğøÿÿÿÿ8ØıØÂ¯.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÒÓàÂ¯.
+Q
+java:S3740M"/Provide the parametrized type for this generic.(ĞÍ¦›ûÿÿÿÿ8ñïİÂ¯.

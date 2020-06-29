@@ -1,0 +1,18 @@
+@startuml
+
+abstract class Drink
+
+class coffee extends Drink
+note "缓冲类" as N1
+coffee .. N1
+class Latte implements coffee
+class Cappuccino implements coffee
+
+
+class Decorator extends Drink
+class chocolate extends Decorator
+class Milk extends Decorator
+
+
+
+@enduml

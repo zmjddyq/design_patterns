@@ -1,0 +1,16 @@
+@startuml
+
+class Product
+Abstract class Builder
+
+Builder *->  Product
+
+class ConcreteBuilder extends Builder
+
+class Director
+
+Director o-> ConcreteBuilder
+
+main --> Director
+
+@enduml

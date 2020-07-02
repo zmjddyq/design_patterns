@@ -1,48 +1,48 @@
 
-
-java:S1192 "lDefine a constant instead of duplicating this literal "å…‹éš†çš„å¯¹è±¡çš„ç¾Šæœ‹å‹æ˜¯å¦ç›¸ç­‰ï¼š " 3 times.(¾ä•˜ÿÿÿÿÿ8ìœºÇ¯.
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(é”¹´ıÿÿÿÿ8Ë˜Ç¯.
-E
-java:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëÏÑÇ¯.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßıÂ÷øÿÿÿÿ8¤±ÆÆ¯.
-U	java:S106&"9Replace this use of System.out or System.err by a logger.(¸‡Ş×8Ë˜Ç¯.
-Z	java:S106("9Replace this use of System.out or System.err by a logger.(óÍ…øÿÿÿÿ8Ë˜Ç¯.
-T	java:S106%"9Replace this use of System.out or System.err by a logger.(šã’88Ë˜Ç¯.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ø¾ªùøÿÿÿÿ8 ÓŒÇ¯.
-f
-java:S2583V"DChange this condition so that it does not always evaluate to "false"(µôŸ°ÿÿÿÿÿ8ëÏÑÇ¯.
 t
 java:S1192"RDefine a constant instead of duplicating this literal "å…‹éš†ç¾ŠäºŒå·: " 3 times.(Æş–ûÿÿÿÿ8ìœºÇ¯.
+p
+java:S2975„"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8ˆ°­Ç¯.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(é”¹´ıÿÿÿÿ8Ë˜Ç¯.
+
+java:S1192 "lDefine a constant instead of duplicating this literal "å…‹éš†çš„å¯¹è±¡çš„ç¾Šæœ‹å‹æ˜¯å¦ç›¸ç­‰ï¼š " 3 times.(¾ä•˜ÿÿÿÿÿ8ìœºÇ¯.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ø¾ªùøÿÿÿÿ8 ÓŒÇ¯.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(øùÂ§øÿÿÿÿ8ìœºÇ¯.
+t
+java:S1192"RDefine a constant instead of duplicating this literal "å…‹éš†ç¾Šä¸€å·: " 3 times.(ßıÂ÷øÿÿÿÿ8ìœºÇ¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(é£Êúÿÿÿÿ8ÔÈÇ¯.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(¸‡Ş×8Ë˜Ç¯.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(‰»¡“8ìœºÇ¯.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ğ«›¸8ìœºÇ¯.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æş–ûÿÿÿÿ8¤±ÆÆ¯.
-Z	java:S106/"9Replace this use of System.out or System.err by a logger.(¿ÂÚıÿÿÿÿ8ìœºÇ¯.
-L
-java:S2093E"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ƒÀÏÇ¯.
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(¾ä•˜ÿÿÿÿÿ8Ÿç¼Æ¯.
+E
+java:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëÏÑÇ¯.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(åó³û8Ó‹¾Æ¯.
+E
+java:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëÏÑÇ¯.
 E
 java:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ğ©ÑÇ¯.
-^
-java:S2259Q"AA "NullPointerException" could be thrown; "ois" is nullable here.(¨ÿÃš8Ğ©ÑÇ¯.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(é£Êúÿÿÿÿ8ÔÈÇ¯.
-Z	java:S106-"9Replace this use of System.out or System.err by a logger.(øùÂ§øÿÿÿÿ8ìœºÇ¯.
-E
-java:S1185„"(Remove this method to simply inherit it.(™”” 8ˆ°­Ç¯.
+L
+java:S2093E"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ƒÀÏÇ¯.
+`
+java:S2583]"DChange this condition so that it does not always evaluate to "false"(¨‹÷O8ëÏÑÇ¯.
 {
 java:S1192"^Define a constant instead of duplicating this literal "å…‹éš†çš„å¯¹è±¡æ˜¯å¦ç›¸ç­‰: " 3 times.(åó³û8ìœºÇ¯.
 E
 java:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8º‰Ç¯.
-U	java:S1060"9Replace this use of System.out or System.err by a logger.(‰»¡“8ìœºÇ¯.
 E
-java:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëÏÑÇ¯.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(åó³û8Ó‹¾Æ¯.
-p
-java:S2975„"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8ˆ°­Ç¯.
+java:S1185„"(Remove this method to simply inherit it.(™”” 8ˆ°­Ç¯.
+^
+java:S2259Q"AA "NullPointerException" could be thrown; "ois" is nullable here.(¨ÿÃš8Ğ©ÑÇ¯.
 E
 java:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëÏÑÇ¯.
-`
-java:S2583]"DChange this condition so that it does not always evaluate to "false"(¨‹÷O8ëÏÑÇ¯.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(¿ÂÚıÿÿÿÿ8ìœºÇ¯.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(óÍ…øÿÿÿÿ8Ë˜Ç¯.
 a
 java:S2583d"DChange this condition so that it does not always evaluate to "false"(áïÛ°8ëÏÑÇ¯.
-U	java:S106."9Replace this use of System.out or System.err by a logger.(ğ«›¸8ìœºÇ¯.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(¾ä•˜ÿÿÿÿÿ8Ÿç¼Æ¯.
+f
+java:S2583V"DChange this condition so that it does not always evaluate to "false"(µôŸ°ÿÿÿÿÿ8ëÏÑÇ¯.
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(šã’88Ë˜Ç¯.
 U	java:S106*"9Replace this use of System.out or System.err by a logger.(Ğà‰Ü8ÙÔ¹Ç¯.
-t
-java:S1192"RDefine a constant instead of duplicating this literal "å…‹éš†ç¾Šä¸€å·: " 3 times.(ßıÂ÷øÿÿÿÿ8ìœºÇ¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßıÂ÷øÿÿÿÿ8¤±ÆÆ¯.

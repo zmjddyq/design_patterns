@@ -1,13 +1,16 @@
 
+J
+java:S1444"5Make this "public static handlerAdapters" field final(Ž«²
+
 p
 java:S1104"[Make handlerAdapters a static final constant or non-public and provide accessors if needed.(Ž«²
 
 n
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ž«²
 
-J
-java:S1444"5Make this "public static handlerAdapters" field final(Ž«²
-
-Q	java:S125"<This block of commented-out lines of code should be removed.(Û±“ä
 P
 java:S2209 "5Change this instance-reference to a static reference.(Åò¢šüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Û±“ä
+9
+java:S2386"Make this member "protected".(Ž«²
+8àÕú¯.
